@@ -63,21 +63,23 @@
 - **Component Tracker**: Full-stack tracking system for 2,000+ aircraft using React.js, Node.js, PostgreSQL
 - **Fleet Prediction Application**: Python ETL pipeline processing 100,000+ monthly records with ML trend analysis
 
-### 🎮 Avatar Game
-Thrilling game where you fight elemental monsters across 4 levels, upgrade stats, and face Prince Zuko in an epic boss battle!
-- **Tech**: Python, Game Development
+### 💬 Talking Objects Application
+Bring everyday objects to life with AI! Point your camera at any object and watch it speak with unique personalities and awareness of its surroundings
+- **Features**: Real-time computer vision, AI-powered personalities, text-to-speech, motion detection
+- **Tech**: Node.js, Google Gemini API, Computer Vision, React
 
-### 👁️ Eye Tracking Mouse
-Control your mouse cursor using eye movements for hands-free computer interaction
-- **Tech**: Python, OpenCV, MediaPipe, PyAutoGUI
+### 📊 Portfolio Risk Dashboard
+Comprehensive financial risk analysis tool using Modern Portfolio Theory and Value at Risk (VaR) calculations
+- **Features**: Real-time portfolio optimization, risk metrics visualization, historical data analysis
+- **Tech**: Flask, React, yfinance, NumPy, Pandas, SciPy, Recharts, Tailwind CSS
 
 ### 🐾 Pet Recommendation App
 AI-powered pet adoption platform with personalized recommendations based on user preferences
 - **Tech**: React.js, Express.js, Petfinder API
 
-### ☁️ Weather Application
-Real-time weather app displaying current conditions for any city worldwide
-- **Tech**: React.js, Weather API
+### 👁️ Eye Tracking Mouse
+Control your mouse cursor using eye movements for hands-free computer interaction
+- **Tech**: Python, OpenCV, MediaPipe, PyAutoGUI
 
 ---
 
