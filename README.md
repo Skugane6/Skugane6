@@ -5,7 +5,7 @@
 ### 🚀 Full Stack Developer | Data Enthusiast | Software Engineering @ Western University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/searan-kuganesan-58b6b5244/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://skugane6.github.io/portfoliov2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://searank-portfoliov3.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:searan.kuganesan4@gmail.com)
 
 </div>
